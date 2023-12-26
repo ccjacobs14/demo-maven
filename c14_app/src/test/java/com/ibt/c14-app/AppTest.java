@@ -1,4 +1,4 @@
-package com.ibt.c14-app;
+package com.ibt.c14_app;
 
 import static org.junit.Assert.assertTrue;
 
